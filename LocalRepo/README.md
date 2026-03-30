@@ -141,3 +141,27 @@ git pull origin main
 
 # Resolving Merge Conflicts:
 Its a event that takes place when git is unable to automatically resolve the differences in code b/w the two commits.
+
+# Undoing Changes
+- Case 1
+Staged Changes
+<br>
+git reset <-file name->
+git reset
+
+- Case 2
+Commited changes (for one commit)
+<br>
+git reset HEAD~1
+
+- Case 3
+commited changes (for many commits)
+<br>
+git reset <-commit hash>
+<br>
+git reset--hard <-commit hash->
+
+# Fork:
+a fork is a new repository which shares the settings of visibility and code with the original present 'upstream' repository.
+. for fork it is also said that its a rough copy of a given project.
+
