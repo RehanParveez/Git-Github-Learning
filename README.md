@@ -1,7 +1,7 @@
 # Git-Github-Learning
 this repository is about learning the essentials of git and github
 <br>
-Author - Github
+Author - Github (Learning)
 
 ## Git and Github
 
@@ -25,4 +25,8 @@ http://github.com
   
 - Status: this displays the state of the code.
   git status
+
+ - ls -> this means listing all files.
+ - ls -a -> this gives hidden files also, means it shows all the files, which in normal circumstances dont get showed.
+
 
