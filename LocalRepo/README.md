@@ -141,6 +141,3 @@ git pull origin main
 
 # Resolving Merge Conflicts:
 Its a event that takes place when git is unable to automatically resolve the differences in code b/w the two commits.
-
-
-
