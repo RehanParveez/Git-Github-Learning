@@ -49,13 +49,3 @@ this helps in adding or changing the files in the directory where work is going 
 - commit:
 git commit -m 'any message'
 it is explained as keeping the record of changes.
-
-
-
-
-
-
-
-
-
-
