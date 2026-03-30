@@ -121,3 +121,17 @@ git checkout -b <-new branch name-> -> (used to create the new branch)
 <br>
 git branch -d <-branch name-> -> used to delete the branch
 
+## Merging Code:
+# Way 1
+git diff <- branch name ->  (this is used to compare commits, branches, files and more)
+<br>
+git merge <-branch name ->  (used to merge the 2 branches)
+
+Way 2
+Create a PR -> this means a pull request
+
+# Pull Request:
+it lets you tell others about changes that are pushed to a branch in a repository on GitHub.
+<br>
+
+
