@@ -21,12 +21,15 @@ http://github.com
 
 # Clone & Status
 - Clone: its the process of cloning a repository in the local machine.
+<br>
   git clone <- some link ->
   
 - Status: this displays the state of the code.
+<br>
   git status
 
  - ls -> this means listing all files.
+ <br>
  - ls -a -> this gives hidden files also, means it shows all the files, which in normal circumstances dont get showed.
  . this ls -a command is for git bash, but for simple powershell use in the vscode the relevant command to ls -a is:
 
@@ -52,11 +55,13 @@ http://github.com
 
  # add:
  git add <- file name ->
+ <br>
 this helps in adding or changing the files in the directory where work is going on.
 <br>
 
 # commit:
 git commit -m 'any message'
+<br>
 it is explained as keeping the record of changes.
 <br>
 
@@ -65,9 +70,12 @@ git push origin main
 this command is used for the purpose of uploading the local repo. content to the remote repo.
 <br>
 
-# Init
-- init:
-git init
+- push:
+git push origin main
+. this command is used for the purpose of uploading the local repo. content to the remote repo.
+
+- Init
+ git init
 <br>
 the init command is used to create a new repo.
 <br>
@@ -87,29 +95,29 @@ in local git the general flow is:
  github repo -> clone -> changes -> add -> commit -> push 
 
  ## Git Branches
+
  # Branch Commands
  git branch -> (to check the branch)
  <br>
  git branch -M main -> (to rename the branch)
   <br>
+
+# WorkFlow
+
+- Local Git
+. in local git the general flow is: github repo -> clone -> changes -> add -> commit -> push
+
+## Git Branches
+
+# Branch Commands
+
+git branch -> (to check the branch)
+<br>
+git branch -M main -> (to rename the branch)
+<br>
 git checkout <-branch name-> (to navigate, like moving from one branch to another)
 <br>
 git checkout -b <-new branch name-> -> (used to create the new branch)
 <br>
 git branch -d <-branch name-> -> used to delete the branch
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
