@@ -134,4 +134,8 @@ Create a PR -> this means a pull request
 it lets you tell others about changes that are pushed to a branch in a repository on GitHub.
 <br>
 
+# Pull Command:
+git pull origin main
+
+. this command is used to fetch and download the content from a remote repo and then immediately update the local repo in order to match the content.
 
