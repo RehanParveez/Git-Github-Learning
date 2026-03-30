@@ -139,3 +139,8 @@ git pull origin main
 
 . this command is used to fetch and download the content from a remote repo and then immediately update the local repo in order to match the content.
 
+# Resolving Merge Conflicts:
+Its a event that takes place when git is unable to automatically resolve the differences in code b/w the two commits.
+
+
+
